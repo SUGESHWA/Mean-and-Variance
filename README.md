@@ -1,5 +1,5 @@
-EXP:1 Mean and variance of a discrete  distribution
-DATE:14.03.2024
+### EXP:1 Mean and variance of a discrete  distribution
+### DATE:14.03.2024
 
 # Aim : 
 
@@ -47,7 +47,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
-# Program :
+### Program :
 
 Developed by : SUGESHWA.S
 Register number : 24900706
