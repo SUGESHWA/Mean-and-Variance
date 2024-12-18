@@ -1,4 +1,5 @@
 ### EXP:1 Mean and variance of a discrete  distribution
+
 ### DATE:21.09.2024
 
 # Aim : 
